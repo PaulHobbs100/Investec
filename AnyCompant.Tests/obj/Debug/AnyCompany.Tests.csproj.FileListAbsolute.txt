@@ -1,0 +1,16 @@
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\AnyCompant.Tests.dll
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\AnyCompant.Tests.pdb
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\AnyCompany.dll
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\AnyCompany.pdb
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\obj\Debug\AnyCompany.Tests.csprojAssemblyReference.cache
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\obj\Debug\AnyCompany.Tests.csproj.CoreCompileInputs.cache
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\obj\Debug\AnyCompany.Tests.csproj.CopyComplete
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\obj\Debug\AnyCompant.Tests.dll
+C:\Users\paulh\source\repos\tech-test-master\tech-test-master\TechTest\AnyCompant.Tests\obj\Debug\AnyCompant.Tests.pdb
