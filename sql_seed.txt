@@ -1,0 +1,13 @@
+USE [investec]
+GO
+
+INSERT INTO [dbo].[Customers]
+           ([Country]
+           ,[DateOfBirth]
+           ,[Name])
+     VALUES
+           ('UK',convert(datetime,'24/12/2000',103),'Paul'),
+		   ('US',convert(datetime,'02/04/2002',103),'Liz')
+          
+GO
+
